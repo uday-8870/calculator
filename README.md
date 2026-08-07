@@ -13,9 +13,7 @@ A simple calculator app built with Flutter, demonstrating basic arithmetic opera
 
 *(Include screenshots of your app here if available)*
 
-## Getting Started
 
-To run this project locally, follow these steps:
 
 ### Prerequisites
 
